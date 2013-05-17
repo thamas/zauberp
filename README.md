@@ -1,4 +1,4 @@
 zauberp
 =======
 
-A static html page about a chemical production
+A static html page about a chemical product
